@@ -1,19 +1,21 @@
 <div align="center">
 
-<!-- Animated header with typing effect via SVG -->
+<!-- Animated header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+there%2C+I'm+AfifAljav+%F0%9F%91%8B;Builder+of+Lean%2C+Mean+Self-Hosted+Stacks" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges row -->
+<!-- Badges row — shields.io only (always reliable) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=AfifAljav&color=00d9ff&style=flat-square&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/AfifAljav?style=flat-square&color=00d9ff&label=FOLLOWERS)](https://github.com/AfifAljav?tab=followers)
 [![GitHub Repos](https://img.shields.io/badge/REPOS-36-00d9ff?style=flat-square)](https://github.com/AfifAljav?tab=repositories)
 
 <br/>
 
-<!-- Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=AfifAljav&theme=algolia&no-frame=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Stable stat badges via shields.io — no external API that can break -->
+![Contributions](https://img.shields.io/badge/Contributions-67K+-00d9ff?style=flat-square&logo=github)
+![Streak](https://img.shields.io/badge/Current%20Streak-447%20days%20🔥-00d9ff?style=flat-square)
+![Since](https://img.shields.io/badge/On%20GitHub%20Since-Apr%202017-00d9ff?style=flat-square)
 
 </div>
 
@@ -187,14 +189,19 @@ Includes: **LLM** (Ollama) + **Chat UI** (Open WebUI) + **Vector DB** (Qdrant) +
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=AfifAljav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfifAljav&layout=compact&theme=algolia&hide_border=true&langs_count=6"/>
+<!-- Streak card from demolab — same provider as the typing SVG, very stable -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=AfifAljav&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AfifAljav&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- Key stats as shields.io badges — 100% reliable, no external API -->
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-67%2C156-00d9ff?style=for-the-badge&logo=github)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-447%20days-00d9ff?style=for-the-badge&logo=fire)
+![Active Since](https://img.shields.io/badge/Active%20Since-Apr%202017-00d9ff?style=for-the-badge&logo=github)
 
 </div>
 
