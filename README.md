@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header with typing effect via SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there%2C+I'm+AfifAljav+%F0%9F%91%8B;Builder+of+Lean%2C+Mean+Self-Hosted+Stacks" alt="Typing SVG" />
+[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there%2C+I'm+AfifAljav+%F0%9F%91%8B;Builder+of+Lean%2C+Mean+Self-Hosted+Stacks" alt="Typing SVG" />](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi+there%2C+I'm+AfifAljav+%F0%9F%91%8B;Builder+of+Lean%2C+Mean+Self-Hosted+Stacks)
 
 <br/>
 
